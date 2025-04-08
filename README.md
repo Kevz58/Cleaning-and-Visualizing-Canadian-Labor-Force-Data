@@ -8,7 +8,7 @@ Google Drive: https://drive.google.com/drive/folders/1_a8_wYPHK_gYFyypOnkBcGit9R
 
 The analysis used Canadian February Labour Force Survey data from 2019 to 2024, accessed through UBC Abacus. Data was cleaned and analyzed using R, while interactive visualizations were created in Tableau Public to clearly illustrate trends and insights.
 
-You can view the Tableau dashboard for this project here: https://public.tableau.com/app/profile/kevin.zhou8523/viz/CanadianLabourForceSurveyforFebruary2019-2024/Dashboard1
+You can download the Tableau Dashboard I made or view the dashboard for this project here: https://public.tableau.com/app/profile/kevin.zhou8523/viz/CanadianLabourForceSurveyforFebruary2019-2024/Dashboard1
 
 Before running the code in this repository, ensure that you have the following software installed:
 
