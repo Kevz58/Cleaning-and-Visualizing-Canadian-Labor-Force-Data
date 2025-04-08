@@ -15,5 +15,6 @@ Additionally, install the required R packages by running the following code in R
 
 ```r
 install.packages(c("haven", "tidyverse"))
+```r
 
 You can view the Tableau dashboard for this project here: Canadian Labour Force Survey for February 2019–2024.
