@@ -2,7 +2,9 @@
 
 The goal of this project was to explore trends and changes in the Canadian labour force during the COVID-19 pandemic period (2019–2024). Using publicly available labour force survey data, the analysis focused on identifying shifts in employment patterns and wage dynamics. A key area of interest was how education level influenced hourly wages over time across various industries and provinces, particularly as the economy adjusted to the pandemic.
 
-Due to file size or licensing restrictions, the original dataset used in this project is not included in the repository. However, you can access similar data from [Statistics Canada’s Labour Force Survey (LFS) – Public Use Microdata Files](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getInstanceList&Id=1567657). Simply download the files for the years you're interested in (e.g., 2019–2024), save them in the same folder as the R script, and update the file path in the script accordingly to load your data.
+Due to file size, the original dataset used in this project is not included in the repository. However, you can access similar data from [Statistics Canada’s Labour Force Survey (LFS) – Public Use Microdata Files](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getInstanceList&Id=1567657). Simply download the files for the years you're interested in (e.g., 2019–2024), save them in the same folder as the R script, and update the file path in the script accordingly to load your data. Alternatively you can find it in this Google Drive, with the clean version called "combined_data.csv"
+
+Google Drive: https://drive.google.com/drive/folders/1_a8_wYPHK_gYFyypOnkBcGit9Ruw3dVW?usp=sharing
 
 The analysis used Canadian February Labour Force Survey data from 2019 to 2024, accessed through UBC Abacus. Data was cleaned and analyzed using R, while interactive visualizations were created in Tableau Public to clearly illustrate trends and insights.
 
