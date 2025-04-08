@@ -5,3 +5,15 @@ The goal of this project was to explore trends and changes in the Canadian labou
 Due to file size or licensing restrictions, the original dataset used in this project is not included in the repository. However, you can access similar data from [Statistics Canada’s Labour Force Survey (LFS) – Public Use Microdata Files](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getInstanceList&Id=1567657). Simply download the files for the years you're interested in (e.g., 2019–2024), save them in the same folder as the R script, and update the file path in the script accordingly to load your data.
 
 The analysis used Canadian February Labour Force Survey data from 2019 to 2024, accessed through UBC Abacus. Data was cleaned and analyzed using R, while interactive visualizations were created in Tableau Public to clearly illustrate trends and insights.
+
+Before running the code in this repository, ensure that you have the following software installed:
+
+- **R** 
+- **RStudio**
+
+Additionally, install the required R packages by running the following code in RStudio's Console:
+
+```r
+install.packages(c("haven", "tidyverse"))
+
+You can view the Tableau dashboard for this project here: Canadian Labour Force Survey for February 2019–2024.
