@@ -6,6 +6,8 @@ Due to file size or licensing restrictions, the original dataset used in this pr
 
 The analysis used Canadian February Labour Force Survey data from 2019 to 2024, accessed through UBC Abacus. Data was cleaned and analyzed using R, while interactive visualizations were created in Tableau Public to clearly illustrate trends and insights.
 
+You can view the Tableau dashboard for this project here: Canadian Labour Force Survey for February 2019–2024.
+
 Before running the code in this repository, ensure that you have the following software installed:
 
 - **R** 
@@ -15,6 +17,3 @@ Additionally, install the required R packages by running the following code in R
 
 ```r
 install.packages(c("haven", "tidyverse"))
-```r
-
-You can view the Tableau dashboard for this project here: Canadian Labour Force Survey for February 2019–2024.
