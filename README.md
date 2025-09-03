@@ -18,4 +18,9 @@ Before running the code in this repository, ensure that you have the following s
 Additionally, install the required R packages by running the following code in RStudio's Console:
 
 ```r
-install.packages(c("haven", "tidyverse"))
+install.packages(c(
+  "caret", "rpart", "rpart.plot", "reshape2", "ggplot2",
+  "data.table", "pastecs", "PerformanceAnalytics", "corrplot",
+  "tidyverse", "stargazer", "glmnet", "dplyr", "broom",
+  "randomForest"
+))
